@@ -13,7 +13,7 @@ Omien työtapojen tehostaminen sekä parempien ratkaisujen löytäminen asiakkai
 ## Johdon konsultointi
 Toiminnan tai tekemisen tavan muutosten ja kehittämisen perustelut pohjautuu parhaimmillaan vaihtoehtojen kuvaamiseen ja niiden kustannusten ja hyötyjen arviointiin. Analyyseissä, kustannus- ja hyötyerien tunnistamisessa, monitoimijakentän (palveluntuotannon ekosysteemit) kuvaamisessa ja ylipäätään palveluiden kehittämistyössä palvelumuotoiluun kuuluvat menetelmät ovat hyödyllisiä (sidosryhmäkuvaukset, asiakaspolut, käyttötapaukset ja erilaiset käyttöskenaariot).
 
-## Esimerkki Vaatimusmäärittely
+## Esimerkki Prototyyppi
 Asiakastarve kuului seuraavasti:
 *Haluamme päästä Pääkonttorista katsomaan eri toimipisteiden alapuoliset vesistötiedot sekä päästötiedot verrattuna lupaehdoissa annettuihin raja-arvoihin. Toimipisteille on asennettu kamerat kuvaamaan prosessia, mihin haluamme kuvayhteyden.*
 > Asiakastarpeen pohjalta lähdetään tekemään tarkempaa vaatimusmäärittelyä. Asioiden viestimiseen sekä kuvaamisen tueksi voidaan tehdä [esimerkin](https://www.fluidui.com/editor/live/preview/p_hvHnFlQ0McEx23xBLLL0tfmZlpTvAtpi.1487523689134) kaltainen ehdotus.
