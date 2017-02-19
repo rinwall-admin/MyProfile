@@ -8,7 +8,7 @@ Omien työtapojen tehostaminen sekä parempien ratkaisujen löytäminen asiakkai
 
 ![Tietojärjestelmäkehitys](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/Tietoj%C3%A4rjestelm%C3%A4kehitys_.png)
 # Johdon konsultointi
-Tähänkö vaan tekstiä
+
 # Palvelumuotoilu
 ## Vaatimusmäärittely
 *This text will be italic*
