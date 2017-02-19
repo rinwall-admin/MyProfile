@@ -15,6 +15,4 @@ Toiminnan tai tekemisen tavan muutosten ja kehittämisen perustelut pohjautuu pa
 ## Esimerkki Vaatimusmäärittely
 Asiakastarve kuului seuraavasti:
 *Haluamme päästä Pääkonttorista katsomaan eri toimipisteiden alapuoliset vesistötiedot sekä päästötiedot verrattuna lupaehdoissa annettuihin raja-arvoihin. Toimipisteille on asennettu kamerat kuvaamaan prosessia, mihin haluamme kuvayhteyden.*
-> Asiakkaan tarpeen ymmärtäminen ja 
-> parhaalla mahdollisella tavalla siihen vastaaminen on
-> työfilosofiani keskiössä.
+> Asiakastarpeen pohjalta lähdetään tekemään tarkempaa vaatimusmäärittelyä. Asioiden viestimiseen sekä kuvaamisen tueksi voidaan tehdä [esimerkin](https://www.fluidui.com/editor/live/preview/p_hvHnFlQ0McEx23xBLLL0tfmZlpTvAtpi.1487523391556) kaltainen ehdotus.
