@@ -21,7 +21,7 @@ Monitoimijakentässä korostuu sopimusten merkitys. Tehtävät, sisällöt ja m�
 ## Vaatimusmäärittelytyöt
 Palvelun kehittämistyössä käytetään palvelumuotoilun menetelmiä, kuten sidosryhmäkuvaukset, asiakaspolut, käyttötapaukset ja erilaiset käyttöskenaariot. Annan vastauksen siitä, mitä nämä ovat ja miten näitä sovelletaan tarkoitukseen sopivasti ja tulevaisuuden kustannuksia säästävästi.
 
-## Kevyt Prototyyppi
+## Mitäs jos tehtäisiinkin prototyyppi ja mietittäisiin asiaa tämän kautta?
 Asiakastarve kuului seuraavasti:
 *Haluamme päästä Pääkonttorista katsomaan eri toimipisteiden alapuoliset vesistötiedot sekä päästötiedot verrattuna lupaehdoissa annettuihin raja-arvoihin. Toimipisteille on asennettu kamerat kuvaamaan prosessia, mihin haluamme kuvayhteyden.*
 > Asiakastarpeen pohjalta lähdetään tekemään tarkempaa vaatimusmäärittelyä. Asioiden viestimiseen sekä kuvaamisen tueksi voidaan tehdä [esimerkin](https://www.fluidui.com/editor/live/preview/p_hvHnFlQ0McEx23xBLLL0tfmZlpTvAtpi.1487523689134) kaltainen ehdotus.
