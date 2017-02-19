@@ -1,4 +1,6 @@
 # MyProfile
+Mä olen tän näköinen tyyppi
+![GitHub Logo](/images/logo.png)
 # Johdon konsultointi
 Tähänkö vaan tekstiä
 # Palvelumuotoilu
