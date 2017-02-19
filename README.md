@@ -1,4 +1,4 @@
-# Osaaminen
+# Tiina Rintamäki - Tässä olen
 ![OmaKuva](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/omakuva600x.png)
 
 Olen koulutukseltani alunperin **vesi- ja ympäristötekniikan insinööri** vahvistettuna **ympäristötieteen ja -teknologian maisteri**n tutkinnolla (FM). Tältä koulutuspohjalta olen tehnyt ympäristökonsultoinnin töitä. Työt ovat vaihdelleet ympäristöjärjestelmän hallintaan liittyvistä tehtävistä, pilaantuneiden alueiden sekä ympäristöonnettomuustilanteiden akuutti- ja myöhemmän vaiheen toimenpiteisiin sisältäen kunnostussuunnittelun ja toteutuksen. Ympäristövaikutusten arviointihankkeet sekä luvitukset teollisuudelle, turvetuotantoon, jäteasemille  ym. toimialoille ovat myös kuuluneet tehtäviin. Kaikissa tehtävissä on olennaista ollut sidosryhmätyö, tiedotus, tutkimukset, tiedonkeräys useista eri tietolähteistä ja tämän tiedon koostaminen ja viestiminen.
