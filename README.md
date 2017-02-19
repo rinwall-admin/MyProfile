@@ -1,7 +1,7 @@
 # MyProfile
 ![OmaKuva](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/omakuva600x.png)
 
-TEstaan
+Olen koulutukseltani alunperin vesi- ja ympäristötekniikan insinööri vahvistettuna ympäristötieteen ja -teknologian maisterin tutukinnolla (FM). Siirryin tällä koulutuspohjalla työelämään ja toimin sisäilmatutkijana
 # Johdon konsultointi
 Tähänkö vaan tekstiä
 # Palvelumuotoilu
