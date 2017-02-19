@@ -1,6 +1,6 @@
 # MyProfile
 Mä olen tän näköinen tyyppi
-![OmaKuva](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/rajaus.png)
+![OmaKuva](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/omakuva600x.png)
 # Johdon konsultointi
 Tähänkö vaan tekstiä
 # Palvelumuotoilu
