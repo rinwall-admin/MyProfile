@@ -9,7 +9,8 @@ Omien työtapojen tehostaminen sekä parempien ratkaisujen löytäminen asiakkai
 
 ![Tietojärjestelmäkehitys](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/Tietoj%C3%A4rjestelm%C3%A4kehitys600x.png)
 
-# Johdon konsultointi
+# Intohimoni, missä voin palvella Teitä
+## Johdon konsultointi
 Toiminnan tai tekemisen tavan muutosten ja kehittämisen perustelut pohjautuu parhaimmillaan vaihtoehtojen kuvaamiseen ja niiden kustannusten ja hyötyjen arviointiin. Analyyseissä, kustannus- ja hyötyerien tunnistamisessa, monitoimijakentän (palveluntuotannon ekosysteemit) kuvaamisessa ja ylipäätään palveluiden kehittämistyössä palvelumuotoiluun kuuluvat menetelmät ovat hyödyllisiä (sidosryhmäkuvaukset, asiakaspolut, käyttötapaukset ja erilaiset käyttöskenaariot).
 
 ## Esimerkki Vaatimusmäärittely
