@@ -28,4 +28,4 @@ Asiakastarve kuului seuraavasti:
 
 ![Prototyyppi](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/fluidui.png)
 
-*Viestinnän tueksi, olettamukjsia vähentämään tehty pelkistetty prototyyppi*
+*Viestinnän tueksi, olettamuksia vähentämään tehty pelkistetty prototyyppi*
