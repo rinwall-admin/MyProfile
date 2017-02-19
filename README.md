@@ -26,4 +26,6 @@ Asiakastarve kuului seuraavasti:
 *Haluamme päästä Pääkonttorista katsomaan eri toimipisteiden alapuoliset vesistötiedot sekä päästötiedot verrattuna lupaehdoissa annettuihin raja-arvoihin. Toimipisteille on asennettu kamerat kuvaamaan prosessia, mihin haluamme kuvayhteyden.*
 > Asiakastarpeen pohjalta lähdetään tekemään tarkempaa vaatimusmäärittelyä. Asioiden viestimiseen sekä kuvaamisen tueksi voidaan tehdä [esimerkin](https://www.fluidui.com/editor/live/preview/p_hvHnFlQ0McEx23xBLLL0tfmZlpTvAtpi.1487523689134) kaltainen ehdotus.
 
-![Prototyyppi](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/Tietoj%C3%A4rjestelm%C3%A4kehitys600x.png)
+![Prototyyppi](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/fluidui.png)
+
+*Viestinnän tueksi, olettamukjsia vähentämään tehty pelkistetty prototyyppi*
