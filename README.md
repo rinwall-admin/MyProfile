@@ -13,8 +13,8 @@ Omien työtapojen tehostaminen sekä parempien ratkaisujen löytäminen asiakkai
 Toiminnan tai tekemisen tavan muutosten ja kehittämisen perustelut pohjautuu parhaimmillaan vaihtoehtojen kuvaamiseen ja niiden kustannusten ja hyötyjen arviointiin. Analyyseissä, kustannus- ja hyötyerien tunnistamisessa, monitoimijakentän (palveluntuotannon ekosysteemit) kuvaamisessa ja ylipäätään palveluiden kehittämistyössä palvelumuotoiluun kuuluvat menetelmät ovat hyödyllisiä (sidosryhmäkuvaukset, asiakaspolut, käyttötapaukset ja erilaiset käyttöskenaariot).
 
 ## Esimerkki Vaatimusmäärittely
-*This text will be italic*
-_This will also be italic_
+Asiakastarve kuului seuraavasti:
+*Haluamme päästä Pääkonttorista katsomaan eri toimipisteiden alapuoliset vesistötiedot sekä päästötiedot verrattuna lupaehdoissa annettuihin raja-arvoihin. Toimipisteille on asennettu kamerat kuvaamaan prosessia, mihin haluamme kuvayhteyden.*
 > Asiakkaan tarpeen ymmärtäminen ja 
 > parhaalla mahdollisella tavalla siihen vastaaminen on
 > työfilosofiani keskiössä.
