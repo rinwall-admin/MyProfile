@@ -12,8 +12,7 @@ Omien työtapojen tehostaminen sekä parempien ratkaisujen löytäminen asiakkai
 # Johdon konsultointi
 Toiminnan tai tekemisen tavan muutosten ja kehittämisen perustelut pohjautuu parhaimmillaan vaihtoehtojen kuvaamiseen ja niiden kustannusten ja hyötyjen arviointiin. Analyyseissä, kustannus- ja hyötyerien tunnistamisessa, monitoimijakentän (palveluntuotannon ekosysteemit) kuvaamisessa ja ylipäätään palveluiden kehittämistyössä palvelumuotoiluun kuuluvat menetelmät ovat hyödyllisiä (sidosryhmäkuvaukset, asiakaspolut, käyttötapaukset ja erilaiset käyttöskenaariot).
 
-# Palvelumuotoilu
-## Vaatimusmäärittely
+## Esimerkki Vaatimusmäärittely
 *This text will be italic*
 _This will also be italic_
 > Asiakkaan tarpeen ymmärtäminen ja 
