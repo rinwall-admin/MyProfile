@@ -11,9 +11,14 @@ Omien työtapojen tehostaminen sekä parempien ratkaisujen löytäminen asiakkai
 
 # Intohimoni, missä voin palvella Teitä
 ## Johdon konsultointi
-Toiminnan tai tekemisen tavan muutosten ja kehittämisen perustelut pohjautuu parhaimmillaan vaihtoehtojen kuvaamiseen ja niiden kustannusten ja hyötyjen arviointiin. Analyyseissä, kustannus- ja hyötyerien tunnistamisessa, monitoimijakentän (palveluntuotannon ekosysteemit) kuvaamisessa ja ylipäätään palveluiden kehittämistyössä palvelumuotoiluun kuuluvat menetelmät ovat hyödyllisiä (sidosryhmäkuvaukset, asiakaspolut, käyttötapaukset ja erilaiset käyttöskenaariot).
+Toiminnan tai tekemisen tavan muutosten ja kehittämisen perustelut pohjautuu parhaimmillaan vaihtoehtojen kuvaamiseen ja niiden kustannusten ja hyötyjen arviointiin. Prosessien tunnistaminen ja kuvaaminen ovat muutostyön lähtöelementit. Analyysit, kustannus- ja hyötyerien tunnistaminen, monitoimijakentän (palveluntuotannon ekosysteemit) kuvaaminen ja tarvittavien työkalujen löytäminen sekä käytön tuki, koulutus ja työstötyöpajat kuuluvat palveluvalikoimaani.
 
-## Esimerkki Prototyyppi
+Monitoimijakentässä korostuu sopimusten merkitys. Tehtävät, sisällöt ja määrittelyt saavat rungon etukäteen sovituilla spekseillä.
+
+## Vaatimusmäärittelytyöt
+Palvelun kehittämistyössä käytetään palvelumuotoilun menetelmiä, kuten sidosryhmäkuvaukset, asiakaspolut, käyttötapaukset ja erilaiset käyttöskenaariot. Annan vastauksen siitä, mitä nämä ovat ja miten näitä sovelletaan tarkoitukseen sopivasti ja tulevaisuuden kustannuksia säästävästi.
+
+## Kevyt Prototyyppi
 Asiakastarve kuului seuraavasti:
 *Haluamme päästä Pääkonttorista katsomaan eri toimipisteiden alapuoliset vesistötiedot sekä päästötiedot verrattuna lupaehdoissa annettuihin raja-arvoihin. Toimipisteille on asennettu kamerat kuvaamaan prosessia, mihin haluamme kuvayhteyden.*
 > Asiakastarpeen pohjalta lähdetään tekemään tarkempaa vaatimusmäärittelyä. Asioiden viestimiseen sekä kuvaamisen tueksi voidaan tehdä [esimerkin](https://www.fluidui.com/editor/live/preview/p_hvHnFlQ0McEx23xBLLL0tfmZlpTvAtpi.1487523689134) kaltainen ehdotus.
