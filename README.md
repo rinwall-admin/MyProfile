@@ -6,7 +6,7 @@ Olen koulutukseltani alunperin vesi- ja ympäristötekniikan insinööri vahvist
 ![Ympäristö](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/Ymp%C3%A4rist%C3%B6600x.png)
 Omien työtapojen tehostaminen sekä parempien ratkaisujen löytäminen asiakkaille kannusti minut opiskelemaan tietojärjestelmätieteitä. Sisällön- ja tiedonhallinta, systeemisuunnittelu ja tietokannat toivat sisältöä ja ratkaisuja tietojärjestelmien hyödyntämiseen liittyen. Kauppa- sekä oikeustieteen kurssit perustelivat tulevaa toimintaa yrittäjänä.
 
-![Tietojärjestelmäkehitys](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/Tietoj%C3%A4rjestelm%C3%A4kehitys_.png)
+![Tietojärjestelmäkehitys](https://raw.githubusercontent.com/rinwall-admin/MyProfile/master/Tietoj%C3%A4rjestelm%C3%A4kehitys600x.png)
 # Johdon konsultointi
 
 # Palvelumuotoilu
